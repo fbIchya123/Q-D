@@ -15,6 +15,6 @@
   Ссылка на скриншот:<br>
     https://github.com/fbIchya123/Q-D/blob/main/db.png
 
-# SQL. Задача 5
+# PHP. Задача 5
   Ссылка на сертификат:<br>
   https://www.sololearn.com/certificates/CT-G1CRMLZG
