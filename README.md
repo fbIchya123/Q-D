@@ -9,7 +9,7 @@
 
 # SQL. Задача 3
   Ссылка на сертификат:<br>
-  https://api2.sololearn.com/v2/certificates/CC-I03CURRK/image/png
+    https://api2.sololearn.com/v2/certificates/CC-I03CURRK/image/png
 
 # SQL. Задача 4
   Ссылка на скриншот:<br>
@@ -17,4 +17,8 @@
 
 # PHP. Задача 5
   Ссылка на сертификат:<br>
-  https://www.sololearn.com/certificates/CT-G1CRMLZG
+    https://www.sololearn.com/certificates/CT-G1CRMLZG
+  
+# PHP. Задача 6. TaskList.
+  Ссылка на репозиторий:<br>
+    https://github.com/fbIchya123/TaskManagerOn
