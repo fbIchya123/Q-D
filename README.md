@@ -22,3 +22,7 @@
 # PHP. Задача 6. TaskList.
   Ссылка на репозиторий:<br>
     https://github.com/fbIchya123/TaskList
+
+# PHP. Задача 7. Airport. ООП.
+  Ссылка на репозиторий:<br>
+    https://github.com/fbIchya123/airportOOP
