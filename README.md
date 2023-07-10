@@ -26,3 +26,8 @@
 # PHP. Задача 7. Airport. ООП.
   Ссылка на репозиторий:<br>
     https://github.com/fbIchya123/airportOOP
+
+# PHP. Задача 8. TaskList. MVC.
+  Ссылка на репозиторий:<br>
+    https://github.com/fbIchya123/TaskListMVC
+
